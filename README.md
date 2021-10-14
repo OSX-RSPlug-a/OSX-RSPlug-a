@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/fernando-r-682739124/" target="_blank">
         <img alt="Linkedin: Fernando" src="https://img.shields.io/badge/Linkedin-Profile-blue" />
     </a>
-    <a href="https://github.com/OSX-RSPlug-a" target="_blank">
+    <a href="https://codepen.io/Log-N" target="_blank">
         <img alt="Codepen: Fernando" src="https://img.shields.io/badge/Codepen-Profile-brightgreen" />
     </a>
   <a href="https://twitter.com/log_ndev" target="_blank">
