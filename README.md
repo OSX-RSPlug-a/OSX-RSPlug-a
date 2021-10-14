@@ -15,7 +15,7 @@
 
 > I'm curious about technology, innovation and self-improvement. Currently working as a Devops in a financial company that uses high-end technology such as microservices, messaging and K8S to solve complex problems. Before I've experienced working with Front-end developer and Technical support.
 
-## Main Technologies
+## 🛠 Main Technologies
 
 <div style="margin:auto;width:70%;display:flex;justify-content:space-between;align-items:center">
   <img title="Docker" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
