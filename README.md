@@ -13,7 +13,7 @@
 
 ## About me
 
-> I'm curious about technology, innovation, and self-improvement. Currently working as a Devops in a financial company that uses high-end technology such as microservices, messaging and K8S to solve complex problems. Before I've experienced working with front-end developer and Technical support with hardware.
+> I'm curious about technology, innovation and self-improvement. Currently working as a Devops in a financial company that uses high-end technology such as microservices, messaging and K8S to solve complex problems. Before I've experienced working with Front-end developer and Technical support.
 
 ## Main Technologies
 
