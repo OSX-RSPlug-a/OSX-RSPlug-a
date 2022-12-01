@@ -40,4 +40,4 @@
 </div>
 
 ### 📈  Technologies ranking
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OSX-RSPlug-a&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
