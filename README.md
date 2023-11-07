@@ -1,4 +1,4 @@
-<h1 align="center">Fernando da Rosa Santini 🔭🏻‍💻 - Welcome to my Profile</h1>
+<h1 align="center">Fernando Santini 🔭🏻‍💻 - Welcome to my Profile</h1>
 <p>
     <a href="https://www.linkedin.com/in/fernando-r-682739124/" target="_blank">
         <img alt="Linkedin: Fernando" src="https://img.shields.io/badge/Linkedin-Profile-blue" />
