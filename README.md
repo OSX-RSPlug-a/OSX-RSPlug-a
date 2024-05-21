@@ -6,9 +6,6 @@
     <a href="https://codepen.io/Log-N" target="_blank">
         <img alt="Codepen: Fernando" src="https://img.shields.io/badge/Codepen-Profile-brightgreen" />
     </a>
-  <a href="https://twitter.com/log_ndev" target="_blank">
-    <img alt="Twitter: log_ndev" src="https://img.shields.io/twitter/follow/log_ndev.svg?style=social" />
-  </a>
 </p>
 
 ## 💡  About me
