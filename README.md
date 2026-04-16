@@ -18,11 +18,22 @@
     <ul style="display:flex;list-style:none;gap:15px;">
         <li style="display:inline-block;margin-right:10px;list-style:none;">
             <img title="Docker" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
+        </li>
+        <li style="display:inline-block;margin-right:10px;list-style:none;">
             <img title="K8S" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50" />
+        </li>
+        <li style="display:inline-block;margin-right:10px;list-style:none;">
             <img title="Git" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" />
+        </li>
+        <li style="display:inline-block;margin-right:10px;list-style:none;">
             <img title="Apache" alt="apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg" width="50" height="50" />
+        </li>
+        <li style="display:inline-block;margin-right:10px;list-style:none;">
             <img title="ApacheKafka" alt="apachekafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="50" height="50" />
+        </li>
+        <li style="display:inline-block;margin-right:10px;list-style:none;">
             <img title="Python" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+        </li>
             <img title="Go" alt="go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" />
             <img title="Clojure" alt="clojure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-line.svg" width="50" height="50" />
             <img title="Java" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
@@ -36,6 +47,7 @@
             <img title="MSDOS" alt="msdos" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="50" height="50" />
             <img title="Bash" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
             <img title="Linux" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
+        <li style="display:inline-block;margin-right:10px;list-style:none;">
             <img title="Rust" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg" width="50" height="50" />
         </li>
     </ul>
