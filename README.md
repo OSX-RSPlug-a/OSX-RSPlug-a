@@ -10,7 +10,7 @@
 
 ## 💡  About me
 
-> I'm curious about technology, innovation and self-improvement. Currently working as consultant Mid Devops. Before I've experienced working as Desktop developer, Front-end developer and Technical support.
+ I'm curious about technology, innovation and self-improvement. Currently working as consultant Mid Devops. Before I've experienced working as Desktop developer, Front-end developer and Technical support.
 
 ## 🛠 Main Technologies
 
