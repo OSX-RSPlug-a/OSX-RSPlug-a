@@ -15,7 +15,7 @@
 ## 🛠 Main Technologies
 
 <div style="display:inline-block;justify-content:space-between;list-style:none;">
-    <ul style="display:flex;list-style:none;gap:15px;">
+    <ul style="display: grid;grid-template-columns: repeat(3, auto);list-style: none;">
         <li style="display:inline-block;margin-right:10px;list-style:none;">
             <img title="Docker" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
         </li>
