@@ -14,8 +14,8 @@
 
 ## 🛠 Main Technologies
 
-<div style="justify-content:space-between;">
-    <ul style="display: grid;grid-template-columns: repeat(3, auto);list-style: none;">
+<div style="display:inline-block;justify-content:space-between;">
+    <ul style="display:grid;grid-template-columns:repeat(3, auto);list-style:none;">
         <img title="Docker" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
         <img title="K8S" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50" />
         <img title="Git" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" />
