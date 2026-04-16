@@ -14,8 +14,7 @@
 
 ## 🛠 Main Technologies
 
-<div style="display: grid;grid-template-columns: repeat(3, auto);list-style: none;justify-content:space-between;list-style:none;">
-    <ul style="display: grid;grid-template-columns: repeat(3, auto);list-style: none;gap: 15px;">
+<div style="display: grid;grid-template-columns: repeat(3, auto);list-style: none;gap: 15px;">
         <img title="Docker" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
         <img title="K8S" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50" />
         <img title="Git" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" />
@@ -36,6 +35,4 @@
             <img title="Bash" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
             <img title="Linux" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
             <img title="Rust" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg" width="50" height="50" />
-    </ul>
 </div>
-
